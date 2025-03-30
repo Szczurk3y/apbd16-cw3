@@ -12,3 +12,4 @@ C:\Users\s24196\Desktop\Tutorial4\Tutorial4\obj\Debug\net8.0\refint\Tutorial4.dl
 C:\Users\s24196\Desktop\Tutorial4\Tutorial4\obj\Debug\net8.0\Tutorial4.pdb
 C:\Users\s24196\Desktop\Tutorial4\Tutorial4\obj\Debug\net8.0\Tutorial4.genruntimeconfig.cache
 C:\Users\s24196\Desktop\Tutorial4\Tutorial4\obj\Debug\net8.0\ref\Tutorial4.dll
+C:\Users\s24196\Desktop\Tutorial4\Tutorial4\obj\Debug\net8.0\Tutorial4.sourcelink.json

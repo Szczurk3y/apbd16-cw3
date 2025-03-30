@@ -7,7 +7,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b3293b6-91da-41c1-876e-1278e4434eb6" name="Changes" comment="" />
+    <list default="true" id="5b3293b6-91da-41c1-876e-1278e4434eb6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/EmpDeptSalgradeTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/EmpDeptSalgradeTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_Tutorial4Tests" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_Tutorial4Tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Tutorial4Tests" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Tutorial4Tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743342677570</updated>
-      <workItem from="1743342678627" duration="3978000" />
+      <workItem from="1743342678627" duration="4349000" />
     </task>
     <servers />
   </component>
