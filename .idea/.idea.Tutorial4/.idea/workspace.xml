@@ -8,14 +8,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b3293b6-91da-41c1-876e-1278e4434eb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tutorial4/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tutorial4/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tutorial4/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tutorial4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tutorial4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/bin/Debug/net8.0/Tutorial4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/bin/Debug/net8.0/Tutorial4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/bin/Debug/net8.0/Tutorial4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/bin/Debug/net8.0/Tutorial4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/bin/Debug/net8.0/Tutorial4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/bin/Debug/net8.0/Tutorial4.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/EmpDeptSalgradeTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/EmpDeptSalgradeTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/Tutorial4.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/ref/Tutorial4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/ref/Tutorial4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/refint/Tutorial4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Debug/net8.0/refint/Tutorial4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Tutorial4.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Tutorial4.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/Tutorial4.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/Tutorial4.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/AdvancedEmpDeptTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/AdvancedEmpDeptTests.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_Tutorial4Tests" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_Tutorial4Tests" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Tutorial4Tests" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Tutorial4Tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/Tutorial4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/Tutorial4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/Tutorial4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/Tutorial4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/Tutorial4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/Tutorial4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/Tutorial4Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/Tutorial4Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/Tutorial4Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/bin/Debug/net8.0/Tutorial4Tests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/Tutorial4Tests.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/ref/Tutorial4Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/ref/Tutorial4Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/refint/Tutorial4Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Debug/net8.0/refint/Tutorial4Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Tutorial4Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Tutorial4Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/Tutorial4Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/Tutorial4Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial4Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial4Tests/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +72,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2v2UURUvVtj7ujm4i2mByndGVcc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +83,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -74,6 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743342677570</updated>
       <workItem from="1743342678627" duration="4349000" />
+      <workItem from="1743444392841" duration="1800000" />
     </task>
     <servers />
   </component>
@@ -82,7 +131,6 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
