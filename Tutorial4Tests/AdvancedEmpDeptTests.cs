@@ -9,7 +9,7 @@ public class AdvancedEmpDeptTests
     {
         var emps = Database.GetEmps();
 
-        decimal? maxSalary = emps.MaxBy(e => e.Sal)?.Sal; 
+        decimal? maxSalary = emps.Max(e => e.Sal); 
 
         Assert.Equal(5000, maxSalary);
     }
@@ -21,7 +21,7 @@ public class AdvancedEmpDeptTests
     {
         var emps = Database.GetEmps();
 
-        decimal? minSalary = emps.Where(e => e.DeptNo == 30).MinBy(e => e.Sal)?.Sal;
+        decimal? minSalary = emps.Where(e => e.DeptNo == 30).Min(e => e.Sal);
 
         Assert.Equal(1250, minSalary);
     }
@@ -112,11 +112,15 @@ public class AdvancedEmpDeptTests
     [Fact]
     public void ShouldReturnTotalIncomeIncludingCommission()
     {
-        // var emps = Database.GetEmps();
-        //
-        // var result = null; 
-        //
-        // Assert.Contains(result, r => r.EName == "ALLEN" && r.Total == 1900);
+        var emps = Database.GetEmps();
+        
+        var result = emps.Select(e => new 
+            {
+                e.EName,
+                Total = e.Sal + (e.Comm ?? 0)
+            }).ToList();; 
+        
+        Assert.Contains(result, r => r.EName == "ALLEN" && r.Total == 1900);
     }
 
     // 20. Join all three: Emp → Dept → Salgrade
@@ -128,8 +132,20 @@ public class AdvancedEmpDeptTests
         var depts = Database.GetDepts();
         var grades = Database.GetSalgrades();
 
-        // var result = null; 
-        //
-        // Assert.Contains(result, r => r.EName == "ALLEN" && r.DName == "SALES" && r.Grade == 3);
+        var result = emps
+            .SelectMany(e => grades
+                    .Where(s => e.Sal >= s.Losal && e.Sal <= s.Hisal), (e, s) => new { e, s })
+            .Join(depts,
+                es => es.e.DeptNo,
+                d => d.DeptNo,
+                (es, d) => new
+                {
+                    es.e.EName,
+                    d.DName,
+                    es.s.Grade
+                })
+            .ToList();; 
+        
+        Assert.Contains(result, r => r.EName == "ALLEN" && r.DName == "SALES" && r.Grade == 3);
     }
 }
